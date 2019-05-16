@@ -1,7 +1,7 @@
 # Site settings
 title: Qiufengmama Blog
 SEOTitle: Qiufengmama Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/猫咪.jpg
 email: qiufengmama@163.com
 description: "keep going..."
 keyword: "Qiufengmama Blog, Alogrithem Note"
@@ -12,13 +12,13 @@ github_repo: "https://github.com/qiufengmama/qiufengmama.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Enjoy the time!"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:  img/猫咪.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-github_username:    qiufengmama
+github_username: qiufengmama
 
 
 # Build settings
